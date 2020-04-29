@@ -1,2 +1,3 @@
 Put my bio info here:
-Software Development and Testing is the Current Track I am in
+Username cdelga05
+Software Development and Testing Track specializing in html/css,javascript,Excel, Bussiness communication; This will also inlcude understanding hardware architecture and software systems that support web applications,development environments and systems used to build, test and deploy applications and explore processes utilized by developers to manage, version, test and deploy their work. 
